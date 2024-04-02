@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "내프로젝트",
+			"Path": "C:\\Users\\G418-30\\Documents\\Unreal Projects\\내프로젝트\\Source\\내프로젝트.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "내프로젝트Editor",
+			"Path": "C:\\Users\\G418-30\\Documents\\Unreal Projects\\내프로젝트\\Source\\내프로젝트Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
